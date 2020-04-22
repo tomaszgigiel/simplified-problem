@@ -1,0 +1,11 @@
+Author: Tomasz Gigiel <tomasz.gigiel@gmail.com>
+Committer: Tomasz Gigiel <tomasz.gigiel@gmail.com>
+
+git clone https://github.com/tomaszgigiel/simplified-problem.git
+
+git config --local user.name "Tomasz Gigiel"
+git config --local user.email "tomasz.gigiel@gmail.com"
+
+git add --all
+git commit -m "Initial Commit"
+git push
